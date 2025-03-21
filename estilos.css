@@ -24,6 +24,11 @@ img{
   vertical-align: top;
 }
 
+.caja-servicios img{
+  width: 120px;
+  height: 120px;
+}
+
 
 /* Preloader */
 .hidden{
@@ -249,6 +254,7 @@ nav .enlaces a:hover{
   text-align: center;
 }
 .caja-servicios>h4{
+  color: #34495e;
   margin-bottom: var(--espacios);
 }
 
