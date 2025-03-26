@@ -29,6 +29,12 @@ img{
   height: 120px;
 }
 
+.iconos img {
+  width: 50px; /* Set the desired width */
+  height: 50px; /* Set the desired height */
+  object-fit: contain; /* Ensure the image fits within the dimensions */
+}
+
 
 /* Preloader */
 .hidden{
