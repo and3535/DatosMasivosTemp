@@ -36,6 +36,14 @@ img{
 }
 
 
+#servicio h3, 
+#servicio p.after, 
+#servicio .caja-servicios h4, 
+#servicio .caja-servicios p {
+    color: rgb(0, 41, 95); /* Change the text color to blue */
+}
+
+
 /* Preloader */
 .hidden{
   overflow: hidden;
